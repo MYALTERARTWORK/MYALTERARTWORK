@@ -3,14 +3,46 @@
 <!--
 **MYALTERARTWORK/MYALTERARTWORK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#   𝐌𝐘𝐀𝐋𝐓𝐄𝐑𝐀𝐑𝐓𝐖𝐎𝐑𝐊 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##
+
+˚ · .  <img src="https://img.shields.io/badge/WELCOME TO MY ALTER-blue" width=252px > ೄྀ࿐ ˊˎ-
+
+╭┈─────────────
+
+╰──➤ <img src="https://img.shields.io/badge/NAMA-black" width=50px > : <img src="https://img.shields.io/badge/SISAUPIL-white" width=45px >
+
+  
+
+╰┈────➤ <img src="https://img.shields.io/badge/Umur-black" width=50px > : <img src="https://img.shields.io/badge/25-white" width=40px >
+
+
+
+╰┈────────➤ <img src="https://img.shields.io/badge/Hobi-black" width=50px > : <img src="https://img.shields.io/badge/Rebahan-white" width=45px >
+
+
+
+╰┈────────────➤ <img src="https://img.shields.io/badge/Pekerjaan-black" width=50px > : <img src="https://img.shields.io/badge/Ngulik-white" width=45px >
+
+︶︶︶︶︶︶︶︶︶︶︶︶
+
+
+<p align="center">
+  <img src="https://telegra.ph/file/693d96cc7b9785f7dd71a.jpg">
+</p>
+
+   
+## How to fine me? 
+
+  👉  <a href="https://t.me/ademaunanyabang"><img src="https://img.shields.io/badge/Telegram-blue" width=55px></a></p>
+
+  👉  <a href="https://twitter.com/sya_a_m"><img src="https://img.shields.io/badge/Twitter-blue" width=55px></a></p> 
+
+  👉  <a href="https://WATTPAD.COM/UPILKIMPUL"><img src="https://img.shields.io/badge/Wattpad-orange" width=55px></a></p>
+
+## Stay Support ⚡
+
+📢  [Other Project](https://t.me/MYALTERARTWORK) 
+
 -->
