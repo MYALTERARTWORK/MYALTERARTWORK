@@ -3,9 +3,8 @@
 <!--
 **MYALTERARTWORK/MYALTERARTWORK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#   𝐌𝐘𝐀𝐋𝐓𝐄𝐑𝐀𝐑𝐓𝐖𝐎𝐑𝐊 
+   𝐌𝐘𝐀𝐋𝐓𝐄𝐑𝐀𝐑𝐓𝐖𝐎𝐑𝐊 
 
-##
 
 ˚ · .  <img src="https://img.shields.io/badge/WELCOME TO MY ALTER-blue" width=252px > ೄྀ࿐ ˊˎ-
 
@@ -33,7 +32,7 @@
 </p>
 
    
-## How to fine me? 
+ How to fine me? 
 
   👉  <a href="https://t.me/ademaunanyabang"><img src="https://img.shields.io/badge/Telegram-blue" width=55px></a></p>
 
@@ -41,7 +40,7 @@
 
   👉  <a href="https://WATTPAD.COM/UPILKIMPUL"><img src="https://img.shields.io/badge/Wattpad-orange" width=55px></a></p>
 
-## Stay Support ⚡
+ Stay Support ⚡
 
 📢  [Other Project](https://t.me/MYALTERARTWORK) 
 
