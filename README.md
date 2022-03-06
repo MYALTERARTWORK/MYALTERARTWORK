@@ -6,19 +6,10 @@
 
 ╭┈─────────────
 
-╰──➤ <img src="https://img.shields.io/badge/NAMA-black" width=50px > : <img src="https://img.shields.io/badge/SISAUPIL-white" width=45px >
-
-  
-
-╰┈────➤ <img src="https://img.shields.io/badge/Umur-black" width=50px > : <img src="https://img.shields.io/badge/25-white" width=40px >
-
-
-
-╰┈────────➤ <img src="https://img.shields.io/badge/Hobi-black" width=50px > : <img src="https://img.shields.io/badge/Rebahan-white" width=45px >
-
-
-
-╰┈────────────➤ <img src="https://img.shields.io/badge/Pekerjaan-black" width=50px > : <img src="https://img.shields.io/badge/Ngulik-white" width=45px >
+Hello 👋
+- 🌱 I’m Sisaupil 
+- 💕 My Hobbies are writing, skateboarding, and love to learn everything until i said "I'm done"
+- 🎱 I'm Looking a Tutor Who can guide me a Javascript and etc. 
 
 ︶︶︶︶︶︶︶︶︶︶︶︶
 
